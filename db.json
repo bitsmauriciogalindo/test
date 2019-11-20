@@ -7,6 +7,7 @@
         "rating" : 5,
         "author" : "Fernando Trujillo Sanz",
         "editorial" : "Panamericana",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_1.jpg",
         "category" : [
             "terror",
             "fantasia"
@@ -19,6 +20,7 @@
         "rating" : 5,
         "author" : "Fernando Trujillo Sanz",
         "editorial" : "Panamericana",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_2.jpg",
         "category" : [
             "terror",
             "fantasia"
@@ -31,6 +33,7 @@
         "rating" : 5,
         "author" : "Fernando Trujillo Sanz",
         "editorial" : "Panamericana",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_3.jpg",
         "category" : [
             "terror",
             "fantasia"
@@ -43,6 +46,7 @@
         "rating" : 5,
         "author" : "Fernando Trujillo Sanz",
         "editorial" : "Panamericana",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_4.jpg",
         "category" : [
             "terror",
             "fantasia"
@@ -55,11 +59,50 @@
         "rating" : 5,
         "author" : "Fernando Trujillo Sanz",
         "editorial" : "Panamericana",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_5.jpg",
         "category" : [
             "terror",
             "fantasia"
         ]          
-      }  
+      },
+      {
+        "id": 6,
+        "title": "Antes de verano",
+        "summary" : "Mañana termina el curso y yo, Marta, todavía tengo el corazón dividido. Llevo 3 años enamorada de Francisco — Fran para los amigos —, mi mejor amigo, y por supuesto, aún no le he dicho nada. Le he visto pasar por dos novias, no quiero saber cuantas conquistas de una noche, y nadie ha hecho nunca nada. El miedo al rechazo es demasiado fuerte.",
+        "rating" : 2,
+        "author" : "Marta escudero",
+        "editorial" : "El barco de vapor",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/antes_de_verano.jpg",
+        "category" : [
+            "Romance",
+            "Jovenil"
+        ]          
+      },
+      {
+        "id": 7,
+        "title": "El principito",
+        "summary" : "Obra maestra del relato poético, para jóvenes y adultos, donde un piloto se encuentra perdido en el desierto del Sahara después de que su avión sufriera una avería, pero para su sorpresa, es allí donde conoce a un pequeño príncipe proveniente de otro planeta. El Principito, de Antoine Saint-Exupéry, uno de los pilares de la literatura del siglo XX, habita en los corazones de lectores de todas las edades, que a lo largo de varias décadas lo han leído y releído, encontrando cada vez nuevos mensajes y enseñanzas.",
+        "rating" : 5,
+        "author" : "Antoine De saint-Exupéry",
+        "editorial" : "Reynal & Hitchcock",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/principito.jpg",
+        "category" : [
+            "Infantil",
+            "Jovenil"
+        ]          
+      },
+      {
+        "id": 8,
+        "title": "Dumbo",
+        "summary" : "El bebé elefante de un circo tiene orejas grandes, es ridiculizado y luego aprende a volar.",
+        "rating" : 3,
+        "author" : "Disney",
+        "editorial" : "Planeta Junior",
+        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/dumbo.jpg",
+        "category" : [
+            "Infantil"
+        ]          
+      }
     ],
     "profile": {
       "name": "typicode"
