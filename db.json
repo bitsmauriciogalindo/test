@@ -1,0 +1,67 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "La biblia de los caidos Tomo 0 - Testamento del Gris 0",
+        "summary" : "El mundo cuenta con un lado oculto, una cara sobrenatural que nos susurra, que se intuye, pero que muy pocos perciben. La inmensa mayoría de las personas no es consciente de ese lado paranormal... ni de sus riesgos.",
+        "rating" : 5,
+        "author" : "Fernando Trujillo Sanz",
+        "editorial" : "Panamericana",
+        "category" : [
+            "terror",
+            "fantasia"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "La biblia de los caídos tomo 1 - Testamento de Sombra",
+        "summary" : "Habrá quien opine que las andanzas de un asesino no merecen ser incluidas en estas crónicas. Sin embargo, la muerte no puede dejarse a un lado para aquellos que deseen comprender su totalidad. El vampiro Sombra ofrece la oportunidad de adentrarse en el mundo de estos seres de la noche, una raza que una vez sometió a su voluntad a todas las demás. Sucedió en otra época, hace mucho tiempo. Ahora es el momento de conocer su situación actual, así como cuál es su participación en la búsqueda de las páginas de la Biblia de los Caídos.",
+        "rating" : 5,
+        "author" : "Fernando Trujillo Sanz",
+        "editorial" : "Panamericana",
+        "category" : [
+            "terror",
+            "fantasia"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "La biblia de los caídos tomo 1 - Testamento del Gris 1",
+        "summary" : "Tal vez un hombre sin alma no sea un hombre. Puede que sea un monstruo, como aseguran algunos, o puede que sea mucho más que un hombre. Ni siquiera yo, que conozco toda la historia, me atrevo a juzgar a un ser único.",
+        "rating" : 5,
+        "author" : "Fernando Trujillo Sanz",
+        "editorial" : "Panamericana",
+        "category" : [
+            "terror",
+            "fantasia"
+        ]          
+      },
+      {
+        "id": 4,
+        "title": "La biblia de los caídos tomo 1 - Testamento de MAD",
+        "summary" : "Llegó el momento de ahondar en el mundo de los magos, de dar un primer paso en su modo de vida y sus costumbres. Los magos tienen una participación importante en los sucesos que han de ocurrir relacionados con la Biblia de los Caídos, y es relevante comprender su papel.",
+        "rating" : 5,
+        "author" : "Fernando Trujillo Sanz",
+        "editorial" : "Panamericana",
+        "category" : [
+            "terror",
+            "fantasia"
+        ]          
+      },
+      {
+        "id": 5,
+        "title": "La biblia de los caídos - Testamento de Nilia",
+        "summary" : "No se puede aspirar a un mínimo de conocimiento sobre La biblia de los caídos sin conocer a Nilia, porque una verdad está clara: sin ella estaríamos ante una historia completamente distinta.",
+        "rating" : 5,
+        "author" : "Fernando Trujillo Sanz",
+        "editorial" : "Panamericana",
+        "category" : [
+            "terror",
+            "fantasia"
+        ]          
+      }  
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+}
