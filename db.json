@@ -1,110 +1,42 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "title": "La biblia de los caidos Tomo 0 - Testamento del Gris 0",
-        "summary" : "El mundo cuenta con un lado oculto, una cara sobrenatural que nos susurra, que se intuye, pero que muy pocos perciben. La inmensa mayoría de las personas no es consciente de ese lado paranormal... ni de sus riesgos.",
-        "rating" : 5,
-        "author" : "Fernando Trujillo Sanz",
-        "editorial" : "Panamericana",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_1.jpg",
-        "category" : [
-            "terror",
-            "fantasia"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "La biblia de los caídos tomo 1 - Testamento de Sombra",
-        "summary" : "Habrá quien opine que las andanzas de un asesino no merecen ser incluidas en estas crónicas. Sin embargo, la muerte no puede dejarse a un lado para aquellos que deseen comprender su totalidad. El vampiro Sombra ofrece la oportunidad de adentrarse en el mundo de estos seres de la noche, una raza que una vez sometió a su voluntad a todas las demás. Sucedió en otra época, hace mucho tiempo. Ahora es el momento de conocer su situación actual, así como cuál es su participación en la búsqueda de las páginas de la Biblia de los Caídos.",
-        "rating" : 5,
-        "author" : "Fernando Trujillo Sanz",
-        "editorial" : "Panamericana",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_2.jpg",
-        "category" : [
-            "terror",
-            "fantasia"
-        ]
-      },
-      {
-        "id": 3,
-        "title": "La biblia de los caídos tomo 1 - Testamento del Gris 1",
-        "summary" : "Tal vez un hombre sin alma no sea un hombre. Puede que sea un monstruo, como aseguran algunos, o puede que sea mucho más que un hombre. Ni siquiera yo, que conozco toda la historia, me atrevo a juzgar a un ser único.",
-        "rating" : 5,
-        "author" : "Fernando Trujillo Sanz",
-        "editorial" : "Panamericana",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_3.jpg",
-        "category" : [
-            "terror",
-            "fantasia"
-        ]          
-      },
-      {
-        "id": 4,
-        "title": "La biblia de los caídos tomo 1 - Testamento de MAD",
-        "summary" : "Llegó el momento de ahondar en el mundo de los magos, de dar un primer paso en su modo de vida y sus costumbres. Los magos tienen una participación importante en los sucesos que han de ocurrir relacionados con la Biblia de los Caídos, y es relevante comprender su papel.",
-        "rating" : 5,
-        "author" : "Fernando Trujillo Sanz",
-        "editorial" : "Panamericana",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_4.jpg",
-        "category" : [
-            "terror",
-            "fantasia"
-        ]          
-      },
-      {
-        "id": 5,
-        "title": "La biblia de los caídos - Testamento de Nilia",
-        "summary" : "No se puede aspirar a un mínimo de conocimiento sobre La biblia de los caídos sin conocer a Nilia, porque una verdad está clara: sin ella estaríamos ante una historia completamente distinta.",
-        "rating" : 5,
-        "author" : "Fernando Trujillo Sanz",
-        "editorial" : "Panamericana",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/lbdlc_5.jpg",
-        "category" : [
-            "terror",
-            "fantasia"
-        ]          
-      },
-      {
-        "id": 6,
-        "title": "Antes de verano",
-        "summary" : "Mañana termina el curso y yo, Marta, todavía tengo el corazón dividido. Llevo 3 años enamorada de Francisco — Fran para los amigos —, mi mejor amigo, y por supuesto, aún no le he dicho nada. Le he visto pasar por dos novias, no quiero saber cuantas conquistas de una noche, y nadie ha hecho nunca nada. El miedo al rechazo es demasiado fuerte.",
-        "rating" : 2,
-        "author" : "Marta escudero",
-        "editorial" : "El barco de vapor",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/antes_de_verano.jpg",
-        "category" : [
-            "Romance",
-            "Jovenil"
-        ]          
-      },
-      {
-        "id": 7,
-        "title": "El principito",
-        "summary" : "Obra maestra del relato poético, para jóvenes y adultos, donde un piloto se encuentra perdido en el desierto del Sahara después de que su avión sufriera una avería, pero para su sorpresa, es allí donde conoce a un pequeño príncipe proveniente de otro planeta. El Principito, de Antoine Saint-Exupéry, uno de los pilares de la literatura del siglo XX, habita en los corazones de lectores de todas las edades, que a lo largo de varias décadas lo han leído y releído, encontrando cada vez nuevos mensajes y enseñanzas.",
-        "rating" : 5,
-        "author" : "Antoine De saint-Exupéry",
-        "editorial" : "Reynal & Hitchcock",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/principito.jpg",
-        "category" : [
-            "Infantil",
-            "Jovenil"
-        ]          
-      },
-      {
-        "id": 8,
-        "title": "Dumbo",
-        "summary" : "El bebé elefante de un circo tiene orejas grandes, es ridiculizado y luego aprende a volar.",
-        "rating" : 3,
-        "author" : "Disney",
-        "editorial" : "Planeta Junior",
-        "imageUrl" : "https://raw.githubusercontent.com/bitsmauriciogalindo/test/master/images/dumbo.jpg",
-        "category" : [
-            "Infantil"
-        ]          
-      }
-    ],
+    "httpStatusCode": 200,
+    "body": {
+        "orderId": 32089,
+        "purchaseOrderId": "70209",
+        "transactionId": "32087",
+        "status": "Open",
+        "currentPaymentStatus": "Open",
+        "finalPaymentStatus": "Open",
+        "customerName": " ",
+        "email": "andres.cavallin@millicom.com",
+        "phoneNumber": "19000000",
+        "customerIpAddress": "127.0.0.1",
+        "paymentChannel": "MiTigoWebPagoTarjetas",
+        "processingPartnerName": "CyberSource",
+        "deviceId": "valueOptional",
+        "applicationName": "mitigo-web-home-invoice-uat-ni",
+        "accountType": "contracts",
+        "accountNumber": "80681",
+        "productReference": "0",
+        "paymentAmount": "1697.87",
+        "paymentCurrencyCode": "NIO",
+        "creationDate": "2020-02-06T22:17:53Z",
+        "requiresFulfillment": true,
+        "paymentStartTimeStamp": "2020-02-06T22:17:53Z",
+        "merchantNumber": "1",
+        "merchantName": "millicom_ni_hogar",
+        "enforcePayloadEncryption": false,
+        "paymentInstrument": {
+            "paymentMethodId": 1,
+            "paymentMethodName": "CC",
+            "maskedAccountId": "417632XXXXXX3309",
+            "expirationDate": "11/2022",
+            "tokenized": true
+        }
+    },
     "profile": {
       "name": "typicode"
     }
 }
+
+
