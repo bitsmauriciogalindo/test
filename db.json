@@ -1,6 +1,6 @@
 {
     "httpStatusCode": 200,
-    "body": {
+    "body": [
         "orderId": 32089,
         "purchaseOrderId": "70209",
         "transactionId": "32087",
@@ -33,7 +33,7 @@
             "expirationDate": "11/2022",
             "tokenized": true
         }
-    },
+    ],
     "profile": {
       "name": "typicode"
     }
